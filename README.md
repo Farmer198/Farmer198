@@ -18,7 +18,4 @@
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
 </p>
 
-### My Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farmer198&show_icons=true&theme=dark&bg_color=-,0F2027,203A43,2C5364&title_color=ebebeb&text_color=ebebeb)](https://github.com/Farmer198)
-
 Cheers •• Mr. Farmer
