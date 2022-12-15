@@ -5,7 +5,7 @@
 </p>
 
 ### About Me
-- I am Hobby Python Developer.<br>
+- I'm a hobby Python developer.<br>
 - Writing Discord bots.<br>
 
 ### My favorites
